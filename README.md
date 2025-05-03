@@ -1,12 +1,10 @@
-<h1 align="center">Hey there 👋, I'm Keiran Mistry</h1>
+<h1 align="center">Keiran Mistry</h1>
 
-🎓 First-year Math student at the University of Waterloo  
-💻 Aspiring Data Scientist | Passionate about Programming & Problem Solving  
-⚽ Arsenal supporter | Building soccer-inspired coding projects  
+🎓 Currently studying Mathematics at the University of Waterloo
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Languages
 - **Languages:** Python, C, Java, Racket, SQL  
 - **Tools:** Git, GitHub, VSCode, Power BI, Tableau  
 - **Learning:** APIs, Web Scraping, Machine Learning  
