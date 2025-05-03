@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Keiran Mistry
+<h1 align="center">Hey there 👋, I'm Keiran Mistry</h1>
 
 🎓 First-year Math student at the University of Waterloo  
 💻 Aspiring Data Scientist | Passionate about Programming & Problem Solving  
