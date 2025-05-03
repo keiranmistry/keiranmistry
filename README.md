@@ -20,9 +20,6 @@
 ---
 
 ## 🔨 Side Projects
-- ⚽ Soccer Tic-Tac-Toe with player validation using Transfermarkt  
-- 📊 Sports data visualizations in Power BI  
-- 🔠 Wordle clone in Python using OOP
 
 ---
 
