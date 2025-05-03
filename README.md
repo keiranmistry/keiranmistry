@@ -3,7 +3,6 @@
 🎓 Currently studying Mathematics at the University of Waterloo
 
 ---
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=keiranmistry)
 
 
 ## 🛠 Languages
