@@ -3,10 +3,16 @@
 </h1>
 
 <p align="center">
-  Currently studying <strong>Mathematics</strong> at the <strong>University of Waterloo</strong>
+  <strong>Mathematics</strong> student at the <strong>University of Waterloo</strong>
 </p>
 
+<p align="center">
+  Currently working at <strong>Techtronic Industries</strong> for <strong>Summer 2025</strong>
+</p>
+
+
 ## Languages
+
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -26,24 +32,15 @@
 ![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=databricks&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=databricks&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-
 ---
 
-## 📈 GitHub Stats
-
-![Keiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=KeiranMistry&show_icons=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KeiranMistry&layout=compact)
-
----
-
-## 📫 Contact
-- **Email:** [your-email@example.com]  
+## Contact
+- **Email:** [k3mistry@uwaterloo.ca](mailto:k3mistry@uwaterloo.ca)
 - **LinkedIn:** [linkedin.com/in/keiranmistry](https://linkedin.com/in/keiranmistry)
 
 ---
-
-⭐️ Thanks for visiting my profile!
