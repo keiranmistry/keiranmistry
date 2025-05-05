@@ -11,7 +11,7 @@
 </p>
 
 
-## Languages
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -27,7 +27,7 @@
 
 ---
 
-## Technologies and Tools
+### Technologies and Tools
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
@@ -39,7 +39,7 @@
 
 ---
 
-## Contact
+### Contact
 - **Email:** [k3mistry@uwaterloo.ca](mailto:k3mistry@uwaterloo.ca)
 - **LinkedIn:** [linkedin.com/in/keiranmistry](https://linkedin.com/in/keiranmistry)
 
