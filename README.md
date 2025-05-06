@@ -10,6 +10,9 @@
   Currently working at <strong>Techtronic Industries</strong> for <strong>Summer 2025</strong>
 </p>
 
+<p align="center">
+  Interested in the fields of <strong>data science</strong>, <strong>machine learning</strong>, and <strong>software development</strong>
+</p>
 
 ### Languages
 
