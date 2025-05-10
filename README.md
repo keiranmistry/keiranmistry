@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <strong>Mathematics</strong> student at the <strong>University of Waterloo</strong>
+  <strong>Data Science</strong> student at the <strong>University of Waterloo</strong>
 </p>
 
 <p align="center">
