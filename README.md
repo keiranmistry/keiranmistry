@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-  Currently working at <strong>Techtronic Industries</strong> for <strong>Summer 2025</strong>
+  Currently, I'm studying in my <strong>2nd Year</strong> at UWaterloo
 </p>
 
 <p align="center">
-  Interested in the fields of <strong>data science</strong>, <strong>machine learning</strong>, and <strong>software development</strong>
+  I'm super interested in exploring the fields of <strong>data science</strong>, <strong>machine learning</strong>, and <strong>software development</strong>
 </p>
 
 ### Languages
@@ -43,7 +43,7 @@
 ---
 
 ### Contact
+- **Portfolio** [keiranmistry.com](https://keiranmistry.com)
 - **Email:** [k3mistry@uwaterloo.ca](mailto:k3mistry@uwaterloo.ca)
 - **LinkedIn:** [linkedin.com/in/keiranmistry](https://linkedin.com/in/keiranmistry)
-
 ---
